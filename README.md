@@ -1,5 +1,8 @@
 # EHCache Testing
 
+[![license](https://img.shields.io/github/license/interlok-testing/testing_ehcache.svg)](https://github.com/interlok-testing/testing_ehcache/blob/develop/LICENSE)
+[![Actions Status](https://github.com/interlok-testing/testing_ehcache/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/interlok-testing/testing_ehcache/actions/workflows/gradle-build.yml)
+
 Project tests interlok-ehcache features
 
 ## What it does
